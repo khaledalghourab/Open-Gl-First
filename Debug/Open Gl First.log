@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\midosaed8.1\documents\open gl\include\learnopengl\shader_s.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\midosaed8.1\documents\open gl\include\learnopengl\shader_s.h(51): warning C4101: 'success': unreferenced local variable
+  Open Gl First.vcxproj -> C:\Users\MidoSaed8.1\source\repos\Open Gl First\Debug\Open Gl First.exe
